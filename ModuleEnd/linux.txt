@@ -1,0 +1,8 @@
+Write a shell script function which will return the count of prime numbers in a range of given two 
+numbers (inclusive of both ends).
+The input of the shell program contains two numbers (min, max).
+Note the following is
+Prime numbers are positive numbers that have only two factors, 1 and the number itself.
+for exampl is
+Sample Input.
+hello is there any one
